@@ -4,3 +4,4 @@ services:
     build: ./src
     ports:
       - 3000:3000
+      - 80:80
