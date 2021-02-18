@@ -2,3 +2,4 @@ deployments:
   default:
     ready_wait: 20
     port_forwarding: 3000:3000
+    vm_storage_gb: 80
